@@ -1,0 +1,26 @@
+.Market{
+    padding-bottom: 25px;
+}
+
+.group-title{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: start;
+    padding: 5px 20px;
+    box-sizing: border-box;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.group-title .view-more{
+    font-size: 16px;
+    float: right;
+}
+
+.group-container{
+    margin: auto;
+}
+
+.card{
+    cursor: pointer;
+}
